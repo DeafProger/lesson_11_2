@@ -5,3 +5,9 @@ def upstring(source):
     return source.upper()
 
 
+def titlestr(source):
+    """
+        Return source string in title case
+    """
+    return source.title()
+
